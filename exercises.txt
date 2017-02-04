@@ -1,0 +1,14 @@
+(3pts)
+1) Contador ascendente de 8 bits
+(3pts)
+2) Caminata de bits solo a la izquierda – Generando el siguiente patrón: 0x01, 0x02, 0x04, 0x08, 0x10, 0x20, 0x40, 0x80
+(3pts)
+3) Cuenta Johnson – Generando el siguiente patrón: 0x01, 0x03, 0x07, 0x0F, 0x1F, 0x3F, 0x7F, 0xFF, 0xFE, 0xFC, 0xF8, 0xF0, 0xE0, 0xC0, 0x80, 0x00)
+(4pts)
+4) Caminata bidireccional de Bits – Generando el siguiente patrón: 0x01, 0x02, 0x04, 0x08, 0x10, 0x20, 0x40, 0x80, 0x40, 0x20, 0x10, 0x08, 0x04, 0x02, 0x01
+(4pts)
+5) Caminata de LEDs con sentido controlado por Estado de un botón – El Boton libre genera una caminata a la izquierda y oprimido hacia la derecha (pista: pueden simular el estado de un botón pasandolo como parámetro de una función)
+(6pts)
+6) Cuenta de botonazos – Incrementa el contador cada vez que de oprime el Boton (pista: uso de apuntadores)
+(7pts)
+7) Contador con botón de incremento y otro de decremento – El Boton1 incrementa la cuenta de los LEDs y el Boton2 la decrementa (pista: el boton puede ser un parámetro de una función, usar también apuntadores)
